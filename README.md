@@ -4,7 +4,7 @@
 
 <br/>
 
-**AI-ML Engineer · Multi-Agent Systems · Industrial Intelligence**
+**AI-ML Engineer · Multi-Agent Systems · Applied Engineering Architectures**
 
 *Production agent systems · Grounded document intelligence · Eval-driven reliability*
 
