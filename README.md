@@ -4,7 +4,7 @@
 
 <br/>
 
-**Forward-Deployed AI Engineer · Multi-Agent Systems · Industrial Intelligence**
+**AI-ML Engineer · Multi-Agent Systems · Industrial Intelligence**
 
 Tumakuru, India · UTC+05:30
 
