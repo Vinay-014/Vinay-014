@@ -1,48 +1,14 @@
-Here is the complete README in a single, self-contained Markdown code block. It is designed to be pasted directly into a GitHub profile README and keeps the Matrix/Bash theme throughout with no repeated content.
-```markdown
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=800&lines=Wake+up%2C+Neo...;The+Matrix+has+you.;Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo.;Vinay+K+S+%7C+AI-ML+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Vinay+K+S;Building+Resilient+AI+Systems;Agentic+Workflows+%7C+Spatial+RAG+%7C+Voice+AI;From+First+Principles+to+Production" alt="Typing SVG" />
 
 <br/>
 
-```
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-```
+**AI-ML Engineer · Multi-Agent Systems · Industrial Intelligence**
 
-</div>
+*Production agent systems · Grounded document intelligence · Eval-driven reliability*
 
----
-
-## 🟢 SYSTEM BOOT SEQUENCE
-
-```bash
-$ ssh neo@matrix --identity=~/.ssh/redpill
-$ ./wake_up.sh --user=Vinay_K_S
-[ OK ] Loading kernel modules: neural_link.ko
-[ OK ] Mounting /dev/consciousness
-[ OK ] Starting agentic daemon...
-[ OK ] Reality check: PASSED (red pill detected)
-[ !! ] WARNING: You are still plugged into the Matrix
-```
-
----
-
-## 🟢 COLOR BLOCK — CONTACT
-
-```bash
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  📧 EMAIL        │  🔗 LINKEDIN       │  💻 GITHUB        │  📍 LOCATION    ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  vinayks705@     │  vinay-k-s-        │  Vinay-014        │  Tumakuru,      ║
-║  gmail.com       │  4b203024a         │                   │  India          ║
-║                  │                    │                   │  UTC+05:30      ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
+Tumakuru, India · UTC+05:30 · Open to remote / India full-time
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-k-s-4b203024a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinay-014)
@@ -52,242 +18,179 @@ $ ./wake_up.sh --user=Vinay_K_S
 
 ---
 
-## 🟢 COLOR BLOCK — TECHNICAL STACK
+### 🧰 Core Technical Arsenal
 
-```bash
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  🧠 LANGUAGES          │  Python ╖ TypeScript ╖ JavaScript ╖ SQL              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  🤖 AI / ML            │  LangGraph ╖ LangChain ╖ LiteLLM ╖ Gemini ╖ Groq    ║
-║                        │  Scikit-learn ╖ Pydantic ╖ pgvector ╖ Hybrid RAG    ║
-║                        │  Structured Outputs ╖ Multi-Agent Systems           ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  ⚙️  BACKEND & SYSTEMS  │  FastAPI ╖ Express ╖ Node.js ╖ PostgreSQL ╖ PostGIS║
-║                        │  SQLite ╖ Circuit Breakers ╖ Webhooks ╖ State       ║
-║                        │  Machines ╖ Observability                           ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  🎨 FRONTEND           │  Next.js ╖ React ╖ Vite ╖ Tailwind ╖ Framer Motion ║
-║                        │  Leaflet ╖ Streamlit                                ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  🐳 INFRA & TOOLING    │  Docker ╖ Docker Compose ╖ GitHub Actions ╖ Vercel ║
-║                        │  Make ╖ pytest ╖ Pre-commit                         ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+| Area | Stack |
+| :--- | :--- |
+| **Languages** | `Python` · `TypeScript` · `JavaScript` · `SQL` |
+| **AI / ML** | `LangGraph` · `LangChain` · `LiteLLM` · `Gemini` · `Groq` · `Scikit-learn` · `Pydantic` · `pgvector` · Structured Outputs · Hybrid RAG · Multi-Agent Systems |
+| **Backend & Systems** | `FastAPI` · `Express` · `Node.js` · `PostgreSQL` · `PostGIS` · `SQLite` · Circuit Breakers · Webhooks · State Machines · Observability |
+| **Frontend** | `Next.js` · `React` · `Vite` · `Tailwind CSS` · `Framer Motion` · `Leaflet` · `Streamlit` |
+| **Infra & Tooling** | `Docker` · `Docker Compose` · `GitHub Actions` · `Vercel` · `Make` · `pytest` · Pre-commit |
 
 ---
 
-## 🟢 `whoami` — THE ONE
+### 🧠 Who I Am
 
-```bash
-$ cat /etc/passwd | grep vinay
-vinay:x:1001:1001:AI-ML Engineer:/home/matrix:/bin/bash
+I design and ship **resilient, production-grade AI systems** that survive contact with the real world — not demos.
 
-$ ./describe_self.sh
-```
+My work lives at the intersection of:
 
-> I design and ship **resilient, production-grade AI systems** that survive contact with the real world — not demos.
+- 🛡️ **Multi-agent orchestration** with adversarial stress-testing & recovery paths
+- 📐 **Spatial & grounded RAG** for engineering documents
+- 🎙️ **Enterprise voice AI** with failover-aware reliability
+- 🌙 **Long-term memory systems** with fact reconciliation
+- 📊 **Classical ML pipelines** that deliver measurable business impact
 
-```bash
-$ ls -la ~/expertise/
-drwxr-xr-x  multi-agent-orchestration/    # Adversarial stress-testing & recovery
-drwxr-xr-x  spatial-grounded-rag/         # Engineering document intelligence
-drwxr-xr-x  enterprise-voice-ai/          # Failover-aware reliability
-drwxr-xr-x  long-term-memory/             # Fact reconciliation systems
-drwxr-xr-x  classical-ml-pipelines/       # Measurable business impact
-
-$ echo $CORE_VALUES
-observability failover deterministic-evaluation architectural-honesty
-```
+I care deeply about **observability, failover, deterministic evaluation, and architectural honesty**.
 
 ---
 
-## 🟢 FLAGSHIP PROJECTS — `ls ~/projects/`
+### 🚀 Flagship Projects
 
-### 🟢 `[AEGIS]` — Autonomous Executive & Geospatial Intelligence System
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```bash
-$ ./aegis --mode=hierarchical --agents=6
-[COMMANDER] → [SENTINEL] → [FORGE] → [NEMESIS] → [BASTION] → [ECHO]
-```
+#### 🛡️ [AEGIS](https://github.com/Vinay-014/AEGIS)
+**Autonomous Executive & Geospatial Intelligence System**
 
-```bash
-├── LangGraph cyclic workflows
-├── Adversarial NEMESIS ⇄ BASTION debate
-├── Multi-path execution (Overt / Covert / Contingency)
-├── Hot-swap capability
-├── Canary-based MCP security auditing
-├── PostGIS + pgvector spatial-temporal intelligence
-└── FastAPI + Next.js war-room UI
-```
+Hierarchical multi-agent command center  
+`COMMANDER → SENTINEL → FORGE → NEMESIS → BASTION → ECHO`
 
-```bash
-$ cat stack.txt
-FastAPI ╖ LangGraph ╖ LangChain ╖ Gemini ╖ PostgreSQL+PostGIS+pgvector ╖ Next.js ╖ Tailwind ╖ Leaflet ╖ Docker
-```
+- LangGraph cyclic workflows with adversarial NEMESIS ↔ BASTION debate
+- Multi-path execution (Overt / Covert / Contingency) + hot-swap
+- Canary-based MCP security auditing
+- PostGIS + pgvector spatial-temporal intelligence
+- Full FastAPI + Next.js war-room UI
 
----
+**Stack:** FastAPI · LangGraph · LangChain · Gemini · PostgreSQL + PostGIS + pgvector · Next.js · Tailwind · Leaflet · Docker
 
-### 🟢 `[enterprise-voice-ai]` — Enterprise Voice Platform
+</td>
+<td width="50%" valign="top">
 
-```bash
-$ ./voice_ai --modules=3 --resilience=max
-[MODULE 1] Autonomous AI Hiring Assistant (Hunar Voice API)
-[MODULE 2] Zero-regex JD parsing + global talent search (PDL + Apollo)
-[MODULE 3] Smartphone-free IVR attendance w/ acoustic voiceprint biometrics
-```
+#### 🎙️ [enterprise-voice-ai](https://github.com/Vinay-014/enterprise-voice-ai)
+**Enterprise Voice Platform**
 
-```bash
-├── Circuit-breaker + exponential backoff
-├── Cloud startup sync (no data loss on redeploy)
-├── Dual-runtime (Node.js Express + Python FastAPI)
-└── Full call-state machine with webhook + polling
-```
+Three modules under one resilient architecture:
 
-```bash
-$ cat stack.txt
-TypeScript ╖ React ╖ Express ╖ FastAPI ╖ Hunar Voice ╖ SQLite ╖ Tailwind
-```
+1. Autonomous AI Hiring Assistant (Hunar Voice API)
+2. Zero-regex JD parsing + global talent search (PDL + Apollo)
+3. Smartphone-free IVR attendance with acoustic voiceprint biometrics
 
----
+- Circuit-breaker + exponential backoff
+- Cloud startup sync (no data loss on redeploy)
+- Dual-runtime (Node.js Express + Python FastAPI)
+- Full call-state machine with webhook + polling
 
-### 🟢 `[delta-chat]` — P&ID Revision Intelligence + Grounded Spatial RAG
+**Stack:** TypeScript · React · Express · FastAPI · Hunar Voice · SQLite · Tailwind
 
-```bash
-$ ./delta_chat --ingest=all --align=spatial
-[INGEST] PDF, OCR, AutoCAD DWG/DXF
-[ALIGN]  Spatial IoU + Levenshtein + type affinity
-[DELTA]  ADDED / REMOVED / MODIFIED / MOVED
-[ROUTE]  Multi-LLM with spatial grounding
-[EVAL]   Full harness + observability + CI/CD
-```
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-```bash
-$ cat stack.txt
-TypeScript ╖ Python ╖ React ╖ Vite ╖ Express ╖ Gemini ╖ Groq ╖ Docker ╖ Vercel
-```
+#### 📐 [delta-chat](https://github.com/Vinay-014/delta-chat)
+**P&ID Revision Intelligence + Grounded Spatial RAG**
 
----
+Industrial document intelligence for engineering drawings.
 
-### 🟢 `[maya]` — Terminal AI Companion with Long-Term Memory
+- Multi-format ingestion (PDF, OCR, AutoCAD DWG/DXF)
+- Canonical bounding-box entity model + taxonomy
+- Spatial IoU + Levenshtein + type affinity alignment
+- Delta classification (ADDED / REMOVED / MODIFIED / MOVED)
+- Multi-LLM routing with spatial grounding
+- Full evaluation harness + observability + CI/CD
 
-```bash
-$ ./maya --memory=hybrid --persona=immutable
-[FACT]     Structured extraction (Pydantic + LLM)
-[CONFLICT] Contradiction detection & supersession (never hard-delete)
-[RETRIEVE] Vector + keyword + exponential decay
-[GUARD]    Immutable persona guardrails
-[EVAL]     80+ turn suite (precision / recall / persona)
-[STORE]    Single-file SQLite + in-process vector search
-```
+**Stack:** TypeScript · Python · React · Vite · Express · Gemini · Groq · Docker · Vercel
 
-```bash
-$ cat stack.txt
-Python ╖ LiteLLM ╖ SQLite ╖ NumPy ╖ Pydantic ╖ pytest
-```
+</td>
+<td width="50%" valign="top">
+
+#### 🌙 [maya](https://github.com/Vinay-014/maya)
+**Terminal AI Companion with Long-Term Memory**
+
+Research-grade CLI companion focused on memory integrity.
+
+- Structured fact extraction (Pydantic + LLM)
+- Contradiction detection & supersession (never hard-delete)
+- Hybrid retrieval (vector + keyword + exponential decay)
+- Immutable persona guardrails
+- 80+ turn evaluation suite (precision / recall / persona)
+- Single-file SQLite + in-process vector search
+
+**Stack:** Python · LiteLLM · SQLite · NumPy · Pydantic · pytest
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🟢 APPLIED ML — `find /ml -name "*.pkl"`
+### 📊 Applied Machine Learning
 
-```bash
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  PROJECT                          │  FOCUS                    │  SIGNAL    ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  Smart Loan Recovery System       │  Default risk + strategy  │  85% Acc   ║
-║                                   │                           │  89% AUC   ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  GoodFoods                        │  Multi-location agent     │  75+ rest. ║
-║                                   │                           │  Groq+Llama║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  apartment-price-prediction       │  Layout-based valuation   │  E2E pipe  ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  Cricket-Data-Analytics           │  Sports analytics         │  EDA+pred  ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  small-language-model-from-       │  LLM fundamentals         │  From      ║
-║  scratch                          │                           │  scratch   ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  discover-the-transformer-        │  Architecture deep-dive   │  Internals ║
-║  architecture                     │                           │            ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+| Project | Focus | Signal |
+| :--- | :--- | :--- |
+| **[Smart Loan Recovery System](https://github.com/Vinay-014/Smart-Loan-Recovery-System)** | Default risk + recovery strategy | Random Forest + K-Means · 85% Acc · 89% ROC-AUC · Streamlit app |
+| **[GoodFoods](https://github.com/Vinay-014/GoodFoods)** | Multi-location reservation agent | Tool calling · 75+ restaurants · Groq + Llama 3.3 |
+| **[apartment-price-prediction](https://github.com/Vinay-014/apartment-price-prediction)** | Layout-based valuation | End-to-end regression pipeline |
+| **[Cricket-Data-Analytics](https://github.com/Vinay-014/Cricket-Data-Analytics)** | Sports analytics | Exploratory + predictive notebooks |
+| **[small-language-model-from-scratch](https://github.com/Vinay-014/small-language-model-from-scratch)** | LLM fundamentals | Training a small LM from first principles |
+| **[discover-the-transformer-architecture](https://github.com/Vinay-014/discover-the-transformer-architecture)** | Architecture deep-dive | Transformer internals |
 
 ---
 
-## 🟢 DESIGN PHILOSOPHY — `cat manifesto.txt`
+### 🧩 Design Philosophy
 
-```bash
-$ echo $PHILOSOPHY
-"I optimize for resilience over convenience and auditability over black boxes."
-```
+> I optimize for **resilience over convenience** and **auditability over black boxes**.
 
-```bash
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  PRINCIPLE              │  PRACTICE                                        ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  🔁 Fallback everywhere │  LLM routing, telephony, search providers        ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  🧬 Facts have lineage  │  Supersede — never hard-delete                   ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  ⚔️  Stress before ship  │  Adversarial plans before execution              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  📡 Observability first │  Tracing, token cost, confidence scores          ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  🧪 Evals ship w/ prod  │  Harnesses are not optional                      ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+| Principle | Practice |
+| :--- | :--- |
+| 🔁 **Fallback everywhere** | LLM routing, telephony, search providers |
+| 🧾 **Facts have lineage** | Supersede — never hard-delete |
+| ⚔️ **Stress before ship** | Adversarial plans before execution |
+| 📡 **Observability first** | Tracing, token cost, confidence scores |
+| 🧪 **Evals ship with product** | Harnesses are not optional |
 
 ---
 
-## 🟢 MISSION OBJECTIVE — `./looking_for --role`
+### 🎯 What I'm Looking For
 
-```bash
-$ ./recruit.sh --candidates=1 --neo=Vinay
+- Production multi-agent systems, FDE / applied AI roles
+- Industrial & engineering AI (document intelligence, spatial systems)
+- Real-time voice & telephony AI
+- Long-horizon memory & agent reliability work
 
-[✓] Production multi-agent systems, FDE / applied AI roles
-[✓] Industrial & engineering AI (document intelligence, spatial systems)
-[✓] Real-time voice & telephony AI
-[✓] Long-horizon memory & agent reliability work
-
-$ echo "Open to collaborations, research discussions, and high-impact engineering roles."
-```
+**Open to collaborations, research discussions, and high-impact engineering roles.**
 
 ---
 
-## 🟢 GITHUB ACTIVITY — `git log --oneline --all`
+### 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinay-014&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=0D1117" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-014&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="165" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinay-014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-014&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-014&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=0D1117" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-014&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 </div>
 
 ---
 
-## 🟢 TRANSMISSION END
+### 📬 Contact
 
-```bash
-$ exit
-[ CONNECTION TERMINATED ]
-[ REMEMBER: There is no spoon. ]
-[ THE MATRIX HAS YOU... BUT YOU HAVE THE CODE. ]
-```
+| | |
+| :--- | :--- |
+| **Email** | [vinayks705@gmail.com](mailto:vinayks705@gmail.com) |
+| **LinkedIn** | [vinay-k-s-4b203024a](https://www.linkedin.com/in/vinay-k-s-4b203024a) |
+| **GitHub** | [Vinay-014](https://github.com/Vinay-014) |
+| **Location** | Tumakuru, India · UTC+05:30 |
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   🟢 Built with adversarial resilience. Optimized for systems that hold up.  ║
-║                                                                              ║
-║              "I know kung fu." — Neo, 1999                                  ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+**Built with adversarial resilience. Optimized for systems that hold up.**
 
 </div>
-```
