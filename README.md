@@ -13,7 +13,9 @@ Tumakuru, India · UTC+05:30 · Open to remote / India full-time
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-k-s-4b203024a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinay-014)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayks705@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinay____1403)
 
+`vinayks705@gmail.com`
 
 </div>
 
@@ -21,15 +23,13 @@ Tumakuru, India · UTC+05:30 · Open to remote / India full-time
 
 ### 🧰 Core Technical Arsenal
 
-```
-| Area                  | Stack                                                                                                                                                        |
-| :-------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**         | `Python` · `TypeScript` · `JavaScript` · `SQL`                                                                                                               |
-| **AI / ML**           | `LangGraph` · `LangChain` · `LiteLLM` · `Gemini` · `Groq` · `Scikit-learn` · `Pydantic` · `pgvector` · Structured Outputs · Hybrid RAG · Multi-Agent Systems |
-| **Backend & Systems** | `FastAPI` · `Express` · `Node.js` · `PostgreSQL` · `PostGIS` · `SQLite` · Circuit Breakers · Webhooks · State Machines · Observability                       |
-| **Frontend**          | `Next.js` · `React` · `Vite` · `Tailwind CSS` · `Framer Motion` · `Leaflet` · `Streamlit`                                                                    |
-| **Infra & Tooling**   | `Docker` · `Docker Compose` · `GitHub Actions` · `Vercel` · `Make` · `pytest` · Pre-commit                                                                   |
-```
+| Area | Stack |
+| :--- | :--- |
+| **Languages** | `Python` · `TypeScript` · `JavaScript` · `SQL` |
+| **AI / ML** | `LangGraph` · `LangChain` · `LiteLLM` · `Gemini` · `Groq` · `Scikit-learn` · `Pydantic` · `pgvector` · Structured Outputs · Hybrid RAG · Multi-Agent Systems |
+| **Backend & Systems** | `FastAPI` · `Express` · `Node.js` · `PostgreSQL` · `PostGIS` · `SQLite` · Circuit Breakers · Webhooks · State Machines · Observability |
+| **Frontend** | `Next.js` · `React` · `Vite` · `Tailwind CSS` · `Framer Motion` · `Leaflet` · `Streamlit` |
+| **Infra & Tooling** | `Docker` · `Docker Compose` · `GitHub Actions` · `Vercel` · `Make` · `pytest` · Pre-commit |
 
 ---
 
@@ -58,7 +58,7 @@ I care deeply about **observability, failover, deterministic evaluation, and arc
 #### 🛡️ [AEGIS](https://github.com/Vinay-014/AEGIS)
 **Autonomous Executive & Geospatial Intelligence System**
 
-Hierarchical multi-agent command center
+Hierarchical multi-agent command center  
 `COMMANDER → SENTINEL → FORGE → NEMESIS → BASTION → ECHO`
 
 - LangGraph cyclic workflows with adversarial NEMESIS ↔ BASTION debate
@@ -132,16 +132,14 @@ Research-grade CLI companion focused on memory integrity.
 
 ### 📊 Applied Machine Learning
 
-```
-| Project                                                                                                         | Focus                            | Signal                                                          |
-| :-------------------------------------------------------------------------------------------------------------- | :------------------------------- | :-------------------------------------------------------------- |
-| **[Smart Loan Recovery System](https://github.com/Vinay-014/Smart-Loan-Recovery-System)**                       | Default risk + recovery strategy | Random Forest + K-Means · 85% Acc · 89% ROC-AUC · Streamlit app |
-| **[GoodFoods](https://github.com/Vinay-014/GoodFoods)**                                                         | Multi-location reservation agent | Tool calling · 75+ restaurants · Groq + Llama 3.3               |
-| **[apartment-price-prediction](https://github.com/Vinay-014/apartment-price-prediction)**                       | Layout-based valuation           | End-to-end regression pipeline                                  |
-| **[Cricket-Data-Analytics](https://github.com/Vinay-014/Cricket-Data-Analytics)**                               | Sports analytics                 | Exploratory + predictive notebooks                              |
-| **[small-language-model-from-scratch](https://github.com/Vinay-014/small-language-model-from-scratch)**         | LLM fundamentals                 | Training a small LM from first principles                       |
-| **[discover-the-transformer-architecture](https://github.com/Vinay-014/discover-the-transformer-architecture)** | Architecture deep-dive           | Transformer internals                                           |
-```
+| Project | Focus | Signal |
+| :--- | :--- | :--- |
+| **[Smart Loan Recovery System](https://github.com/Vinay-014/Smart-Loan-Recovery-System)** | Default risk + recovery strategy | Random Forest + K-Means · 85% Acc · 89% ROC-AUC · Streamlit app |
+| **[GoodFoods](https://github.com/Vinay-014/GoodFoods)** | Multi-location reservation agent | Tool calling · 75+ restaurants · Groq + Llama 3.3 |
+| **[apartment-price-prediction](https://github.com/Vinay-014/apartment-price-prediction)** | Layout-based valuation | End-to-end regression pipeline |
+| **[Cricket-Data-Analytics](https://github.com/Vinay-014/Cricket-Data-Analytics)** | Sports analytics | Exploratory + predictive notebooks |
+| **[small-language-model-from-scratch](https://github.com/Vinay-014/small-language-model-from-scratch)** | LLM fundamentals | Training a small LM from first principles |
+| **[discover-the-transformer-architecture](https://github.com/Vinay-014/discover-the-transformer-architecture)** | Architecture deep-dive | Transformer internals |
 
 ---
 
@@ -149,15 +147,13 @@ Research-grade CLI companion focused on memory integrity.
 
 > I optimize for **resilience over convenience** and **auditability over black boxes**.
 
-```
-| Principle                      | Practice                                 |
-| :----------------------------- | :--------------------------------------- |
-| 🔁 **Fallback everywhere**     | LLM routing, telephony, search providers |
-| 🧾 **Facts have lineage**      | Supersede — never hard-delete            |
-| ⚔️ **Stress before ship**      | Adversarial plans before execution       |
-| 📡 **Observability first**     | Tracing, token cost, confidence scores   |
-| 🧪 **Evals ship with product** | Harnesses are not optional               |
-```
+| Principle | Practice |
+| :--- | :--- |
+| 🔁 **Fallback everywhere** | LLM routing, telephony, search providers |
+| 🧾 **Facts have lineage** | Supersede — never hard-delete |
+| ⚔️ **Stress before ship** | Adversarial plans before execution |
+| 📡 **Observability first** | Tracing, token cost, confidence scores |
+| 🧪 **Evals ship with product** | Harnesses are not optional |
 
 ---
 
@@ -175,32 +171,29 @@ Research-grade CLI companion focused on memory integrity.
 ### 📈 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vinay-014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-014&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinay-014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-014&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-014&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-014&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 </div>
 
 ---
 
 ### 📬 Contact
 
-```
-|              |                                                                        |
-| :----------- | :--------------------------------------------------------------------- |
-| **Email**    | [vinayks705@gmail.com](mailto:vinayks705@gmail.com)                    |
+| | |
+| :--- | :--- |
+| **Email** | [vinayks705@gmail.com](mailto:vinayks705@gmail.com) |
 | **LinkedIn** | [vinay-k-s-4b203024a](https://www.linkedin.com/in/vinay-k-s-4b203024a) |
-| **GitHub**   | [Vinay-014](https://github.com/Vinay-014)                              |
-| **Location** | Tumakuru, India · UTC+05:30                                            |
-```
+| **GitHub** | [Vinay-014](https://github.com/Vinay-014) |
+| **Location** | Tumakuru, India · UTC+05:30 |
 
 <div align="center">
 
 **Built with adversarial resilience. Optimized for systems that hold up.**
 
 </div>
-
