@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=00FF41&background=0D0208&center=true&vCenter=true&width=800&lines=Vinay+K+S;Building+Resilient+AI+Systems;Agentic+Workflows+%7C+Spatial+RAG+%7C+Voice+AI;From+First+Principles+to+Production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=00FF41&background=0D0208&center=true&vCenter=true&width=800&lines=Vinay+K+S;Building+Resilient+AI+Systems;Agentic+Workflows+%7C+Spatial+RAG+%7C+Voice+AI;From+First+Principles+to+Production" alt="Typing SVG" />
 
 </div>
 
 ---
+
+<div align="center">
 
 ```bash
 ┌──[vinay@matrix]─[~]
@@ -18,16 +20,16 @@
   [+] STATUS           :: OPEN TO WORK
 ```
 
-<div align="center">
+<br/>
 
 <a href="mailto:vinayks705@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-vinayks705%40gmail.com-00FF41?style=for-the-badge&labelColor=0D0208&logo=gmail&logoColor=00FF41" alt="Email" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vinay-k-s-4b203024a">
   <img src="https://img.shields.io/badge/LINKEDIN-vinay--k--s--4b203024a-00FF41?style=for-the-badge&labelColor=0D0208&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/Vinay-014">
   <img src="https://img.shields.io/badge/GITHUB-Vinay--014-00FF41?style=for-the-badge&labelColor=0D0208&logo=github&logoColor=00FF41" alt="GitHub" />
 </a>
@@ -261,9 +263,7 @@
   │   → Auditability over black boxes                          │
   │   → Observability over hope                                │
   └─────────────────────────────────────────────────────────────┘
-```
 
-```bash
 ┌──[vinay@matrix]─[~/principles]
 └─$ ./declare --creed
 
@@ -298,14 +298,14 @@
 ### 📈 GITHUB ACTIVITY
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinay-014&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0D0208&title_color=00FF41&icon_color=00FF41&text_color=00FF41" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-014&theme=chartreuse-dark&hide_border=true&background=0D0208&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="165" alt="GitHub streak" />
-</div>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vinay-014&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0D0208&title_color=00FF41&icon_color=00FF41&text_color=00FF41" height="165" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-014&theme=chartreuse-dark&hide_border=true&background=0D0208&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="165" alt="GitHub streak" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-014&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0208&title_color=00FF41&text_color=00FF41" height="165" alt="Top languages" />
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-014&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0208&title_color=00FF41&text_color=00FF41" height="165" alt="Top languages" />
+
 </div>
 
 ---
@@ -314,25 +314,34 @@
 
 <div align="center">
 
+```bash
+┌──[vinay@matrix]─[~/contact]
+└─$ ./reach --all-channels
+```
+
+<br/>
+
 <a href="mailto:vinayks705@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-vinayks705%40gmail.com-00FF41?style=for-the-badge&labelColor=0D0208&logo=gmail&logoColor=00FF41" alt="Email" />
 </a>
-<br/><br/>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vinay-k-s-4b203024a">
   <img src="https://img.shields.io/badge/LINKEDIN-vinay--k--s--4b203024a-00FF41?style=for-the-badge&labelColor=0D0208&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
 </a>
-<br/><br/>
+&nbsp;&nbsp;
 <a href="https://github.com/Vinay-014">
   <img src="https://img.shields.io/badge/GITHUB-Vinay--014-00FF41?style=for-the-badge&labelColor=0D0208&logo=github&logoColor=00FF41" alt="GitHub" />
 </a>
+
 <br/><br/>
-<a href="#">
-  <img src="https://img.shields.io/badge/LOCATION-Tumakuru%2C_India_·_UTC%2B05%3A30-00FF41?style=for-the-badge&labelColor=0D0208&logo=googlemaps&logoColor=00FF41" alt="Location" />
-</a>
+
+<img src="https://img.shields.io/badge/LOCATION-Tumakuru%2C_India_·_UTC%2B05%3A30-00FF41?style=for-the-badge&labelColor=0D0208&logo=googlemaps&logoColor=00FF41" alt="Location" />
 
 </div>
 
 ---
+
+<div align="center">
 
 ```bash
 ┌──[vinay@matrix]─[~]
@@ -340,3 +349,5 @@
 Built with adversarial resilience. Optimized for systems that hold up.
 └─$ █
 ```
+
+</div>
