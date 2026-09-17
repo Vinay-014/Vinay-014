@@ -31,15 +31,15 @@ Tumakuru, India · UTC+05:30 · Open to remote / India full-time
 
 ### 🧠 Who I Am
 
-I design and ship **resilient, production-grade AI systems** that survive contact with the real world — not demos.
+I design and ship **resilient, scalable AI/MLOps systems** that survive contact across the complex environments.
 
 My work lives at the intersection of:
 
-- 🛡️ **Multi-agent orchestration** with adversarial stress-testing & recovery paths
-- 📐 **Spatial & grounded RAG** for engineering documents
-- 🎙️ **Enterprise voice AI** with failover-aware reliability
-- 🌙 **Long-term memory systems** with fact reconciliation
-- 📊 **Classical ML pipelines** that deliver measurable business impact
+-  **Multi-agent orchestration** with adversarial stress-testing & recovery paths
+-  **Spatial & grounded RAG** for engineering documents
+-  **Enterprise voice AI** with failover-aware reliability
+-  **Long-term memory systems** with fact reconciliation
+-  **Classical ML pipelines** that deliver measurable business impact
 
 I care deeply about **observability, failover, deterministic evaluation, and architectural honesty**.
 
@@ -145,11 +145,11 @@ Research-grade CLI companion focused on memory integrity.
 
 | Principle | Practice |
 | :--- | :--- |
-| 🔁 **Fallback everywhere** | LLM routing, telephony, search providers |
-| 🧾 **Facts have lineage** | Supersede — never hard-delete |
-| ⚔️ **Stress before ship** | Adversarial plans before execution |
-| 📡 **Observability first** | Tracing, token cost, confidence scores |
-| 🧪 **Evals ship with product** | Harnesses are not optional |
+|  **Fallback everywhere** | LLM routing, telephony, search providers |
+|  **Facts have lineage** | Supersede — never hard-delete |
+|  **Stress before ship** | Adversarial plans before execution |
+|  **Observability first** | Tracing, token cost, confidence scores |
+|  **Evals ship with product** | Harnesses are not optional |
 
 ---
 
