@@ -21,11 +21,11 @@ Tumakuru, India · UTC+05:30 · Open to remote / India full-time
 
 | Area | Stack |
 | :--- | :--- |
-| **Languages** | `Python` · `TypeScript` · `JavaScript` · `SQL` |
-| **AI / ML** | `LangGraph` · `LangChain` · `LiteLLM` · `Gemini` · `Groq` · `Scikit-learn` · `Pydantic` · `pgvector` · Structured Outputs · Hybrid RAG · Multi-Agent Systems |
-| **Backend & Systems** | `FastAPI` · `Express` · `Node.js` · `PostgreSQL` · `PostGIS` · `SQLite` · Circuit Breakers · Webhooks · State Machines · Observability |
-| **Frontend** | `Next.js` · `React` · `Vite` · `Tailwind CSS` · `Framer Motion` · `Leaflet` · `Streamlit` |
-| **Infra & Tooling** | `Docker` · `Docker Compose` · `GitHub Actions` · `Vercel` · `Make` · `pytest` · Pre-commit |
+| **Languages** | `C` . `Python` · `TypeScript` · `JavaScript` · `SQL` |
+| **AI / ML** | `RAG`  . `LangGraph` · `LangChain` · `LiteLLM`  · `Scikit-learn` · `Polars` . `Pydantic` · `pgvector` `Artificial Neural Network` · `Explainibility AI` . `Ensemble ML`|
+| **Backend & Systems** | `FastAPI` · `Express` · `Node.js` · `PostgreSQL` · `Supabase` . `PostGIS` · `SQLite` · `Webhooks` · `Observability` |
+| **Frontend** | `Next.js` · `React` · `Vite` · `Tailwind CSS` · `Leaflet` · `Streamlit` |
+| **Infra & Tooling** | `Docker` · `Huuging Face` . `CI/CD` · `GCP` . `Render` · `pytest` . `Google Colab` . `Groq` . `Web Scrapping` |
 
 ---
 
