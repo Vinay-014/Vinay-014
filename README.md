@@ -70,6 +70,7 @@ Tumakuru, India · UTC+05:30 · Open to remote / India full-time
 ![Web Scraping](https://shields.io)
 
 
+
 ---
 
 ### 🧠 Who I Am
