@@ -19,40 +19,13 @@ Tumakuru, India · UTC+05:30 · Open to remote / India full-time
 
 ### 🧰 Core Technical Arsenal
 
-**⚙️ Core Languages**  
-<p>
-  <img src="https://skillicons.dev" />
-</p>
-
-**🧠 AI / Machine Learning**  
-![RAG](https://shields.io) 
-![LangGraph](https://shields.io) 
-![LangChain](https://shields.io) 
-![LiteLLM](https://shields.io) 
-![Scikit-learn](https://shields.io) 
-![Polars](https://shields.io) 
-![Pydantic](https://shields.io)
-
-**🖥️ Backend & Systems**  
-<p>
-  <img src="https://skillicons.dev" />
-</p>
-![Webhooks](https://shields.io) 
-![Observability](https://shields.io)
-
-**🎨 Frontend Development**  
-<p>
-  <img src="https://skillicons.dev" />
-</p>
-![Leaflet](https://shields.io) 
-![Streamlit](https://shields.io)
-
-**🛠️ Infra & DevOps Tooling**  
-<p>
-  <img src="https://skillicons.dev" />
-</p>
-![Hugging Face](https://shields.io) 
-![Web Scraping](https://shields.io)
+| Area | Stack |
+| :--- | :--- |
+| **Languages** | `C` . `Python` · `TypeScript` · `JavaScript` · `SQL` |
+| **AI / ML** | `RAG`  . `LangGraph` · `LangChain` · `LiteLLM`  · `Scikit-learn` · `Polars` . `Pydantic` · `pgvector` `Artificial Neural Network` · `Explainibility AI` . `Ensemble ML`|
+| **Backend & Systems** | `FastAPI` · `Express` · `Node.js` · `PostgreSQL` · `Supabase` . `PostGIS` · `SQLite` · `Webhooks` · `Observability` |
+| **Frontend** | `Next.js` · `React` · `Vite` · `Tailwind CSS` · `Leaflet` · `Streamlit` |
+| **Infra & Tooling** | `Docker` · `Huuging Face` . `CI/CD` · `GCP` . `Render` · `pytest` . `Google Colab` . `Groq` . `Web Scrapping` |
 
 
 ---
