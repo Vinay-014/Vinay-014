@@ -164,17 +164,15 @@ Research-grade CLI companion focused on memory integrity.
 
 ---
 
-### 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinay-014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-014&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-014&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+### 📈 GitHub Activity 
+<div align="center"> 
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Vinay-014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-014&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" /> 
+</div> 
+<br/> 
+<div align="center"> 
+  <!-- Fixed URL using the fast-loading, reliable community mirror -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vinay-014&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" /> 
 </div>
 
 ---
