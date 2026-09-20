@@ -19,74 +19,56 @@ Tumakuru, India · UTC+05:30 · Open to remote / India full-time
 
 ### 🧰 Core Technical Arsenal
 
-<div>
-  <!-- Languages -->
-  <p><strong>⚙️ Core Languages</strong></p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
-<br/>
+**⚙️ Core Languages**  
+![C](https://shields.io) 
+![Python](https://shields.io) 
+![TypeScript](https://shields.io) 
+![JavaScript](https://shields.io) 
+![SQL](https://shields.io)
 
-<div>
-  <!-- AI / ML -->
-  <p><strong>🧠 AI / Machine Learning</strong></p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
-<br/>
+**🧠 AI / Machine Learning**  
+![RAG](https://shields.io) 
+![LangGraph](https://shields.io) 
+![LangChain](https://shields.io) 
+![LiteLLM](https://shields.io) 
+![Scikit-learn](https://shields.io) 
+![Polars](https://shields.io) 
+![Pydantic](https://shields.io) 
+![pgvector](https://shields.io) 
+![ANN](https://shields.io) 
+![XAI](https://shields.io) 
+![Ensemble ML](https://shields.io)
 
-<div>
-  <!-- Backend & Systems -->
-  <p><strong>🖥️ Backend & Systems</strong></p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
-<br/>
+**🖥️ Backend & Systems**  
+![FastAPI](https://shields.io) 
+![Express](https://shields.io) 
+![Node.js](https://shields.io) 
+![PostgreSQL](https://shields.io) 
+![Supabase](https://shields.io) 
+![PostGIS](https://shields.io) 
+![SQLite](https://shields.io) 
+![Webhooks](https://shields.io) 
+![Observability](https://shields.io)
 
-<div>
-  <!-- Frontend -->
-  <p><strong>🎨 Frontend Development</strong></p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
-<br/>
+**🎨 Frontend Development**  
+![Next.js](https://shields.io) 
+![React](https://shields.io) 
+![Vite](https://shields.io) 
+![Tailwind CSS](https://shields.io) 
+![Leaflet](https://shields.io) 
+![Streamlit](https://shields.io)
 
-<div>
-  <!-- Infra & Tooling -->
-  <p><strong>🛠️ Infra & DevOps Tooling</strong></p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
+**🛠️ Infra & DevOps Tooling**  
+![Docker](https://shields.io) 
+![Hugging Face](https://shields.io) 
+![CI/CD](https://shields.io) 
+![GCP](https://shields.io) 
+![Render](https://shields.io) 
+![pytest](https://shields.io) 
+![Google Colab](https://shields.io) 
+![Groq](https://shields.io) 
+![Web Scraping](https://shields.io)
+
 
 ---
 
