@@ -19,13 +19,74 @@ Tumakuru, India · UTC+05:30 · Open to remote / India full-time
 
 ### 🧰 Core Technical Arsenal
 
-| Area | Stack |
-| :--- | :--- |
-| **Languages** | `C` . `Python` · `TypeScript` · `JavaScript` · `SQL` |
-| **AI / ML** | `RAG`  . `LangGraph` · `LangChain` · `LiteLLM`  · `Scikit-learn` · `Polars` . `Pydantic` · `pgvector` `Artificial Neural Network` · `Explainibility AI` . `Ensemble ML`|
-| **Backend & Systems** | `FastAPI` · `Express` · `Node.js` · `PostgreSQL` · `Supabase` . `PostGIS` · `SQLite` · `Webhooks` · `Observability` |
-| **Frontend** | `Next.js` · `React` · `Vite` · `Tailwind CSS` · `Leaflet` · `Streamlit` |
-| **Infra & Tooling** | `Docker` · `Huuging Face` . `CI/CD` · `GCP` . `Render` · `pytest` . `Google Colab` . `Groq` . `Web Scrapping` |
+<div>
+  <!-- Languages -->
+  <p><strong>⚙️ Core Languages</strong></p>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</div>
+<br/>
+
+<div>
+  <!-- AI / ML -->
+  <p><strong>🧠 AI / Machine Learning</strong></p>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</div>
+<br/>
+
+<div>
+  <!-- Backend & Systems -->
+  <p><strong>🖥️ Backend & Systems</strong></p>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</div>
+<br/>
+
+<div>
+  <!-- Frontend -->
+  <p><strong>🎨 Frontend Development</strong></p>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</div>
+<br/>
+
+<div>
+  <!-- Infra & Tooling -->
+  <p><strong>🛠️ Infra & DevOps Tooling</strong></p>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</div>
 
 ---
 
